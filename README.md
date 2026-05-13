@@ -1,8 +1,8 @@
 <h2 align="left">Hi, I'm Jeff Zhou 👋</h2>
 
 <p>
-  UTS  - Bachelor of Games Development
-  USYD - Master of Computer Science
+  <a>UTS  - Bachelor of Games Development</a>
+  <a>USYD - Master of Computer Science</a>
 </p>
 
 <p>
