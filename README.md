@@ -1,7 +1,8 @@
 <h2 align="left">Hi, I'm Jeff Zhou 👋</h2>
 
 <p>
-  Game Client Developer · Engine Systems · Applied LLM Systems
+  UTS  - Bachelor of Games Development
+  USYD - Master of Computer Science
 </p>
 
 <p>
@@ -13,21 +14,6 @@
   </a>
 </p>
 
----
-
-### About
-
-I build game systems, gameplay frameworks, and applied AI tools.
-
-Currently focused on:
-
-- Game client development
-- Unity gameplay architecture
-- C++ engine/runtime fundamentals
-- Local LLM deployment
-- PII detection and redaction systems
-
----
 
 ### Projects
 
