@@ -1,63 +1,31 @@
-<h2 align="left">Hi, I'm Jeff Zhou 👋</h2>
+<div align="center">
 
-<p>
-  <a>UTS  - Bachelor of Games Development</a>
-  <a>USYD - Master of Computer Science</a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:020617,50:0f172a,100:1e3a8a&text=Jeff%20Zhou&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=Game%20Client%20Developer%20%7C%20Engine%20Systems%20%7C%20Applied%20LLM%20Systems&descAlignY=58&descSize=15" />
 
-<p>
-  <a href="https://github.com/ZhouYuxiang01">
-    <img src="https://img.shields.io/badge/GitHub-ZhouYuxiang01-181717?style=flat-square&logo=github" />
-  </a>
-  <a href="mailto:zyx6288@gmail.com">
-    <img src="https://img.shields.io/badge/Email-zyx6288%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
+</div>
 
+<div align="center">
 
-### Projects
+[![GitHub](https://img.shields.io/badge/GitHub-ZhouYuxiang01-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZhouYuxiang01)
+[![Email](https://img.shields.io/badge/Email-zyx6288%40gmail.com-1e293b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zyx6288@gmail.com)
+![Focus](https://img.shields.io/badge/Focus-Game%20Engine%20%26%20AI-2563eb?style=for-the-badge)
 
-- [**Infernux**](https://github.com/ZhouYuxiang01/Infernux)  
-  Open-source game engine with a C++17 / Vulkan runtime and Python production layer.
-
-- [**Unity Character Controller**](https://github.com/ZhouYuxiang01/Unity_Character_Controller)  
-  Intent-driven Unity character controller framework with runtime blackboard, layered state machines, arbiters, animation / IK / audio drivers.
-
-- **PII Redaction Model Distillation**  
-  Local deployable PII span detection and redaction pipeline with typed spans, confidence scores, taxonomy alignment, and evaluation.
-
-- [**Mario**](https://github.com/ZhouYuxiang01/Mario)  
-  Gameplay prototype and game-system practice.
-
-- [**PacMan**](https://github.com/ZhouYuxiang01/PacMan)  
-  Classic gameplay logic implementation.
+</div>
 
 ---
 
-### Tech Stack
+```bash
+$ whoami
+Jeff Zhou / Yuxiang Zhou
 
-<p>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unrealengine&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vulkan-A41E22?style=flat-square&logo=vulkan&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-</p>
+$ current_focus
+> Game client development
+> Unity gameplay architecture
+> C++ engine/runtime fundamentals
+> Local LLM deployment
+> PII detection and redaction systems
 
----
-
-### Current Direction
-
-- Building modular gameplay systems
-- Studying engine architecture and rendering pipelines
-- Improving local LLM inference and evaluation workflows
-- Developing privacy-focused PII redaction models
-
----
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhouYuxiang01&layout=compact&hide_border=true" />
-</p>
+$ tech_direction
+> Build modular game systems
+> Design AI-operable runtime interfaces
+> Train and evaluate privacy-focused redaction models
